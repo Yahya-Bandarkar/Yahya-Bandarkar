@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=55&lines=Open+to+Software+Engineering+Roles;Open+to+Data+Analyst+Roles;Hi%2C+I'm+Yahya+Bandarkar;Building+Scalable+Systems+%26+AI+Solutions" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=950&height=55&lines=Open+to+Software+Engineering+Roles;Open+to+Data+Analyst+Roles;Hi%2C+I'm+Yahya+Bandarkar;Building+Scalable+Systems+%26+AI+Solutions" alt="Typing SVG"/>
 
 <br>
 
