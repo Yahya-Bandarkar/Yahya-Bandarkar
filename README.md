@@ -114,7 +114,15 @@
 </div>
 
 
+## 📈 GitHub Profile
 
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yahya-Bandarkar&theme=github_dark" width="95%"/>
+
+</div>
+
+---
 
 
 # 🏆 What I'm Working Toward
