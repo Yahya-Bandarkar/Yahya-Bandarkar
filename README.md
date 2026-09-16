@@ -114,11 +114,11 @@
 </div>
 
 
-## 📈 GitHub Profile
+## 🐍 Contribution Ecosystem
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yahya-Bandarkar&theme=github_dark" width="95%"/>
+<img src="https://raw.githubusercontent.com/Yahya-Bandarkar/Yahya-Bandarkar/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub Contribution Snake"/>
 
 </div>
 
