@@ -22,27 +22,28 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/COMPUTER%20ENGINEER-00B894?style=for-the-badge&labelColor=161B22"/>
-<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-0984E3?style=for-the-badge&labelColor=161B22"/>
-<img src="https://img.shields.io/badge/BvB%20HACKATHON%20WINNER-FDCB6E?style=for-the-badge&labelColor=161B22"/>
-<img src="https://img.shields.io/badge/INTERN%20%40%20TECHNOHANA-E84393?style=for-the-badge&labelColor=161B22"/>
-<img src="https://img.shields.io/badge/INDUSTRIAL%20TRAINING%20%40%20QSPIDERS-6C5CE7?style=for-the-badge&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/COMPUTER%20ENGINEER-555555?style=for-the-badge&labelColor=555555"/>
+<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-0984E3?style=for-the-badge&labelColor=0984E3"/>
+<img src="https://img.shields.io/badge/BvB%20HACKATHON%20WINNER-555555?style=for-the-badge&labelColor=555555"/>
+<img src="https://img.shields.io/badge/INTERN%20%40%20TECHNOHANA-E84393?style=for-the-badge&labelColor=E84393"/>
+<img src="https://img.shields.io/badge/INDUSTRIAL%20TRAINING%20%40%20QSPIDERS-555555?style=for-the-badge&labelColor=555555"/>
 
 <br>
 
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/DATA%20ANALYTICS-F59E0B?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/DATA%20ANALYTICS-555555?style=for-the-badge&logo=databricks&logoColor=white&labelColor=555555"/>
 <img src="https://img.shields.io/badge/MACHINE%20LEARNING-8B5CF6?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/GNN-EC4899?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/GNN-555555?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=555555"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Yahya-Bandarkar&label=PROFILE%20VIEWS&color=00BFFF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Yahya-Bandarkar&label=PROFILE%20VIEWS&color=555555&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/Yahya-Bandarkar?label=FOLLOWERS&style=for-the-badge&color=00B894"/>
-<img src="https://img.shields.io/github/stars/Yahya-Bandarkar?label=STARS&style=for-the-badge&color=FDCB6E"/>
+<img src="https://img.shields.io/github/stars/Yahya-Bandarkar?label=STARS&style=for-the-badge&color=555555"/>
 
 </div>
 
+---
 ---
 ---
 
