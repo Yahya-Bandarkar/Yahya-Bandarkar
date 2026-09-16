@@ -241,21 +241,22 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git" title="Git"/>
-<img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
-<img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code"/>
-<img src="https://skillicons.dev/icons?i=linux" title="Linux"/>
-<img src="https://skillicons.dev/icons?i=bash" title="Bash"/>
+<img src="https://skillicons.dev/icons?i=git" height="40" title="Git"/>
+<img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="40" title="Visual Studio Code"/>
+<img src="https://skillicons.dev/icons?i=linux" height="40" title="Linux"/>
+<img src="https://skillicons.dev/icons?i=bash" height="40" title="Bash"/>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=npm" title="npm"/>
-<img src="https://skillicons.dev/icons?i=anaconda" title="Conda / Miniconda"/>
-<img src="https://cdn.simpleicons.org/jupyter/F37626" title="Jupyter Notebook"/>
-<img src="https://cdn.simpleicons.org/kaggle/20BEFF" title="Kaggle"/>
-<img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
+<img src="https://skillicons.dev/icons?i=npm" height="40" title="npm"/>
+<img src="https://skillicons.dev/icons?i=anaconda" height="40" title="Conda / Miniconda"/>
+<img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" title="Jupyter Notebook"/>
+<img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="40" title="Kaggle"/>
+<img src="https://skillicons.dev/icons?i=postman" height="40" title="Postman"/>
 
 </p>
+
 
 ---
 
