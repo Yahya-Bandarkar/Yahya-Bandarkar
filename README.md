@@ -138,6 +138,15 @@
 </div>
 
 ---
+## 🧊 3D Contribution Visualization
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Yahya-Bandarkar/Yahya-Bandarkar/main/profile-3d-contrib/profile-green-animate.svg" width="95%" alt="3D Contribution Visualization"/>
+
+</div>
+
+---
 
 
 # 🛠️ Tech Stack & Expertise
