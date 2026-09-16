@@ -142,11 +142,25 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Yahya-Bandarkar/Yahya-Bandarkar/main/profile-3d-contrib/profile-night-view.svg" width="95%" alt="3D Contribution Visualization"/>
+<img src="https://raw.githubusercontent.com/Yahya-Bandarkar/Yahya-Bandarkar/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contribution Visualization"/>
 </div>
 
 ---
 
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Yahya-Bandarkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yahya-Bandarkar&theme=tokyonight&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yahya-Bandarkar&theme=tokyo-night&hide_border=true" width="97%"/>
+
+</div>
+
+
+
+---
 
 # 🛠️ Tech Stack & Expertise
 
@@ -275,20 +289,7 @@
 ---
 
 
-# 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Yahya-Bandarkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yahya-Bandarkar&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yahya-Bandarkar&theme=tokyo-night&hide_border=true" width="97%"/>
-
-</div>
-
-
-
----
 
 # 💭 Daily Inspiration
 
