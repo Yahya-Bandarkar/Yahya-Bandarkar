@@ -247,8 +247,6 @@
 <img src="https://skillicons.dev/icons?i=linux" height="40" title="Linux"/>
 <img src="https://skillicons.dev/icons?i=bash" height="40" title="Bash"/>
 
-<br>
-
 <img src="https://skillicons.dev/icons?i=npm" height="40" title="npm"/>
 <img src="https://skillicons.dev/icons?i=anaconda" height="40" title="Conda / Miniconda"/>
 <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" title="Jupyter Notebook"/>
