@@ -9,16 +9,13 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Yahya-Bandarkar&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Yahya-Bandarkar?label=FOLLOWERS&style=for-the-badge&color=2563EB"/>
-<img src="https://img.shields.io/github/stars/Yahya-Bandarkar?label=STARS&style=for-the-badge&color=F59E0B"/>
 
 </div>
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&height=50&lines=Open+to+Software+Engineering+Roles;Open+to+Data+Analyst+Roles;Hi%2C+I'm+Yahya+Bandarkar;Building+Scalable+Systems+%26+AI+Solutions" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=55&lines=Open+to+Software+Engineering+Roles;Open+to+Data+Analyst+Roles;Hi%2C+I'm+Yahya+Bandarkar;Building+Scalable+Systems+%26+AI+Solutions" alt="Typing SVG"/>
 
 <br>
 
@@ -37,9 +34,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Yahya-Bandarkar&label=PROFILE%20VIEWS&color=555555&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Yahya-Bandarkar?label=FOLLOWERS&style=for-the-badge&color=00B894"/>
-<img src="https://img.shields.io/github/stars/Yahya-Bandarkar?label=STARS&style=for-the-badge&color=555555"/>
 
 </div>
 
