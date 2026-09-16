@@ -144,9 +144,6 @@
 <img src="https://skillicons.dev/icons?i=c" title="C"/>
 <img src="https://skillicons.dev/icons?i=html" title="HTML5"/>
 <img src="https://skillicons.dev/icons?i=css" title="CSS3"/>
-<img src="https://skillicons.dev/icons?i=mysql" title="SQL"/>
-<img src="https://skillicons.dev/icons?i=oracle" title="PL/SQL"/>
-<img src="https://skillicons.dev/icons?i=json" title="JSON"/>
 
 </p>
 
@@ -161,8 +158,6 @@
 <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS"/>
 <img src="https://skillicons.dev/icons?i=vite" title="Vite"/>
 <img src="https://skillicons.dev/icons?i=framer" title="Framer Motion"/>
-<img src="https://skillicons.dev/icons?i=html" title="HTML5"/>
-<img src="https://skillicons.dev/icons?i=css" title="CSS3"/>
 
 </p>
 
@@ -176,7 +171,6 @@
 <img src="https://skillicons.dev/icons?i=express" title="Express.js"/>
 <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI"/>
 <img src="https://skillicons.dev/icons?i=django" title="Django"/>
-<img src="https://skillicons.dev/icons?i=postman" title="REST APIs / Postman"/>
 
 </p>
 
@@ -186,11 +180,9 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python" title="Python"/>
 <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch"/>
 <img src="https://skillicons.dev/icons?i=sklearn" title="Scikit-learn"/>
-<img src="https://skillicons.dev/icons?i=tensorflow" title="Deep Learning"/>
-<img src="https://skillicons.dev/icons?i=anaconda" title="Conda / Miniconda"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow"/>
 
 </p>
 
@@ -208,13 +200,10 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python" title="Python"/>
 <img src="https://skillicons.dev/icons?i=pandas" title="Pandas"/>
 <img src="https://skillicons.dev/icons?i=numpy" title="NumPy"/>
 <img src="https://skillicons.dev/icons?i=mysql" title="SQL"/>
-<img src="https://skillicons.dev/icons?i=excel" title="Microsoft Excel"/>
 <img src="https://skillicons.dev/icons?i=hadoop" title="Hadoop"/>
-<img src="https://skillicons.dev/icons?i=spark" title="Big Data / Spark"/>
 
 </p>
 
@@ -230,7 +219,6 @@
 <img src="https://skillicons.dev/icons?i=firebase" title="Firebase"/>
 <img src="https://skillicons.dev/icons?i=supabase" title="Supabase"/>
 <img src="https://skillicons.dev/icons?i=redis" title="Redis"/>
-<img src="https://skillicons.dev/icons?i=oracle" title="Oracle Database"/>
 
 </p>
 
@@ -242,10 +230,8 @@
 
 <img src="https://skillicons.dev/icons?i=aws" title="AWS"/>
 <img src="https://skillicons.dev/icons?i=vercel" title="Vercel"/>
-<img src="https://skillicons.dev/icons?i=render" title="Render"/>
 <img src="https://skillicons.dev/icons?i=firebase" title="Firebase"/>
 <img src="https://skillicons.dev/icons?i=supabase" title="Supabase"/>
-<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB Atlas"/>
 
 </p>
 
@@ -276,10 +262,8 @@
 
 <img src="https://skillicons.dev/icons?i=google" title="Google Gemini API"/>
 <img src="https://skillicons.dev/icons?i=youtube" title="YouTube API"/>
-<img src="https://skillicons.dev/icons?i=firebase" title="Firebase Services"/>
 
 </p>
----
 
 # 📊 GitHub Stats
 
