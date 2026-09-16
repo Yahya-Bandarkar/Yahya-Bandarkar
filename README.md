@@ -22,8 +22,8 @@
 <img src="https://img.shields.io/badge/COMPUTER%20ENGINEER-0984E3?style=for-the-badge&labelColor=0984E3"/>
 <img src="https://img.shields.io/badge/PROBLEM%20SOLVING-555555?style=for-the-badge&labelColor=555555"/>
 <img src="https://img.shields.io/badge/BvB%20HACKATHON%20WINNER-00A86B?style=for-the-badge&labelColor=00A86B"/>
-<img src="https://img.shields.io/badge/INTERN%20%40%20TECHNOHANA-555555?style=for-the-badge&labelColor=555555"/>
-<img src="https://img.shields.io/badge/INDUSTRIAL%20TRAINING%20%40%20QSPIDERS-E84393?style=for-the-badge&labelColor=E84393"/>
+<img src="https://img.shields.io/badge/INTERN%20%40TECHNOHANA-555555?style=for-the-badge&labelColor=555555"/>
+<img src="https://img.shields.io/badge/INDUSTRIAL%20TRAINING%20%40QSPIDERS-E84393?style=for-the-badge&labelColor=E84393"/>
 
 <br>
 
