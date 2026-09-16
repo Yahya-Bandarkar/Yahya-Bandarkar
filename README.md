@@ -200,10 +200,11 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=pandas" title="Pandas"/>
-<img src="https://skillicons.dev/icons?i=numpy" title="NumPy"/>
+<img src="https://skillicons.dev/icons?i=python" title="Python"/>
 <img src="https://skillicons.dev/icons?i=mysql" title="SQL"/>
-<img src="https://skillicons.dev/icons?i=hadoop" title="Hadoop"/>
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" title="Power BI"/>
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" title="Excel"/>
+<img src="https://cdn.simpleicons.org/tableau/E97627" title="Tableau"/>
 
 </p>
 
