@@ -42,7 +42,7 @@
 
 
 # 👨‍💻 About Me
-
+<div style="margin-left: 20px;">
 <table>
 <tr>
 
@@ -107,6 +107,7 @@
 
 </tr>
 </table>
+</div>
 
 ---
 
