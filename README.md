@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:17151F,100:302B3F&height=190&section=header&text=Yahya%20Bandarkar&fontSize=48&fontColor=F5F5F5&fontAlignY=42&desc=Software%20Developer%20%7C%20Data%20Analyst%20%7C%20Aspiring%20Data%20Scientist&descAlignY=63&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,100:16A085&height=190&section=header&text=Yahya%20Bandarkar&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=Software%20Developer%20%7C%20Data%20Analyst%20%7C%20Aspiring%20Data%20Scientist&descAlignY=64&descSize=16&animation=fadeIn" width="100%"/>
 
-</div>
+<br>
 
 ### 💻 Software Developer | 📊 Data Analyst | 🧠 Aspiring Data Scientist
 ### 🚀 Deep-diving into the AI/ML world
