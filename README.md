@@ -200,11 +200,11 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python" title="Python"/>
-<img src="https://skillicons.dev/icons?i=mysql" title="SQL"/>
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" title="Power BI"/>
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" title="Excel"/>
-<img src="https://cdn.simpleicons.org/tableau/E97627" title="Tableau"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="SQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="50" title="Power BI"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" title="Excel"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="50" title="Tableau"/>
 
 </p>
 
