@@ -295,4 +295,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:29B6F6,50:42A5F5,100:9C6ADE&height=100&section=footer" width="100%"/>
