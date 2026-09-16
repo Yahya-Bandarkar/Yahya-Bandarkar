@@ -1,10 +1,6 @@
 <div align="center">
 
-<!-- HEADER -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=700&height=45&lines=Yahya+Bandarkar" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=YAHYA%20BANDARKAR&fontSize=48&fontColor=39FF14&fontAlignY=50" width="100%"/>
 
 <br>
 
@@ -13,9 +9,9 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Yahya-Bandarkar&label=PROFILE%20VIEWS&color=0891b2&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Yahya-Bandarkar?label=FOLLOWERS&style=for-the-badge&color=2563eb" />
-<img src="https://img.shields.io/github/stars/Yahya-Bandarkar?label=STARS&style=for-the-badge&color=f59e0b" />
+<img src="https://komarev.com/ghpvc/?username=Yahya-Bandarkar&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Yahya-Bandarkar?label=FOLLOWERS&style=for-the-badge&color=2563EB"/>
+<img src="https://img.shields.io/github/stars/Yahya-Bandarkar?label=STARS&style=for-the-badge&color=F59E0B"/>
 
 </div>
 
