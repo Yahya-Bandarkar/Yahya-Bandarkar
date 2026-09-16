@@ -43,9 +43,78 @@
 
 # 👨‍💻 About Me
 
-| ⚡ Professional Snapshot | 🚀 Current Mission |
-|:---|:---|
-| **Name:** Yahya Bandarkar<br><br>**Education:**<br>• B.E. Computer Engineering<br>• AIKTC, Navi Mumbai<br>• CGPA: **9.4**<br><br>**Current Focus:**<br>• Software Development<br>• Data Analytics<br>• Machine Learning<br>• Data Science<br>• Artificial Intelligence<br><br>**Primary Language:**<br>• Python 🐍<br><br>**Location:**<br>• 🇮🇳 India | **🧠 Deep-diving into AI/ML**<br>• Machine Learning<br>• Deep Learning<br>• Graph Neural Networks<br>• Explainable AI<br>• Fraud Detection<br>• Financial Network Analysis<br>• Data Science<br><br>**📊 Data Journey**<br>• SQL<br>• Python<br>• Pandas<br>• NumPy<br>• Excel<br>• Data Analysis<br>• Big Data Analytics<br><br>**🔨 Building**<br>• ML systems<br>• Full-stack applications<br>• Data-driven platforms<br>• AI-powered solutions |
+# 👨‍💻 About Me
+
+<div align="center"> 
+ 
+<table> 
+<tr> 
+ 
+<td width="50%" valign="top"> 
+
+## ⚡ Professional Snapshot
+
+**Name:** Yahya Bandarkar
+
+**Education:**
+- B.E. Computer Engineering
+- AIKTC, Navi Mumbai
+- CGPA: **9.4**
+
+**Current Focus:**
+- Software Development
+- Data Analytics
+- Machine Learning
+- Data Science
+- Artificial Intelligence
+
+**Primary Language:**
+- Python 🐍
+
+**Location:**
+- 🇮🇳 India
+
+</td> 
+ 
+<td width="50%" valign="top"> 
+
+## 🚀 Current Mission
+
+### 🧠 Deep-diving into AI/ML
+
+- Machine Learning
+- Deep Learning
+- Graph Neural Networks
+- Explainable AI
+- Fraud Detection
+- Financial Network Analysis
+- Data Science
+
+### 📊 Data Journey
+
+- SQL
+- Python
+- Pandas
+- NumPy
+- Excel
+- Data Analysis
+- Big Data Analytics
+
+### 🔨 Building
+
+- ML systems
+- Full-stack applications
+- Data-driven platforms
+- AI-powered solutions
+
+</td> 
+ 
+</tr> 
+</table> 
+ 
+</div>
+
+---
 
 ---
 
