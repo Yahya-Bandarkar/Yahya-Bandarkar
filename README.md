@@ -248,8 +248,8 @@
 <img src="https://skillicons.dev/icons?i=bash" title="Bash"/>
 <img src="https://skillicons.dev/icons?i=npm" title="npm"/>
 <img src="https://skillicons.dev/icons?i=anaconda" title="Conda / Miniconda"/>
-<img src="https://skillicons.dev/icons?i=jupyter" title="Jupyter Notebook"/>
-<img src="https://skillicons.dev/icons?i=kaggle" title="Kaggle"/>
+<img src="https://cdn.simpleicons.org/jupyter/F37626" title="Jupyter Notebook"/>
+<img src="https://cdn.simpleicons.org/kaggle/20BEFF" title="Kaggle"/>
 <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
 
 </p>
@@ -276,15 +276,7 @@
 
 </div>
 
----
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yahya-Bandarkar&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
 
 ---
 
