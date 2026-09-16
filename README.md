@@ -138,13 +138,17 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,java,c,html,css" />
+<img src="https://skillicons.dev/icons?i=python" title="Python"/>
+<img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
+<img src="https://skillicons.dev/icons?i=java" title="Java"/>
+<img src="https://skillicons.dev/icons?i=c" title="C"/>
+<img src="https://skillicons.dev/icons?i=html" title="HTML5"/>
+<img src="https://skillicons.dev/icons?i=css" title="CSS3"/>
+<img src="https://skillicons.dev/icons?i=mysql" title="SQL"/>
+<img src="https://skillicons.dev/icons?i=oracle" title="PL/SQL"/>
+<img src="https://skillicons.dev/icons?i=json" title="JSON"/>
 
 </p>
-
-**Also worked with:**
-
-`SQL` `PL/SQL` `JSON` `JSONL`
 
 ---
 
@@ -152,13 +156,15 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css,js" />
+<img src="https://skillicons.dev/icons?i=react" title="React.js"/>
+<img src="https://skillicons.dev/icons?i=nextjs" title="Next.js"/>
+<img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS"/>
+<img src="https://skillicons.dev/icons?i=vite" title="Vite"/>
+<img src="https://skillicons.dev/icons?i=framer" title="Framer Motion"/>
+<img src="https://skillicons.dev/icons?i=html" title="HTML5"/>
+<img src="https://skillicons.dev/icons?i=css" title="CSS3"/>
 
 </p>
-
-**Technologies:**
-
-`React.js` `Next.js` `Tailwind CSS` `Vite` `Framer Motion`
 
 ---
 
@@ -166,13 +172,13 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django" />
+<img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/>
+<img src="https://skillicons.dev/icons?i=express" title="Express.js"/>
+<img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI"/>
+<img src="https://skillicons.dev/icons?i=django" title="Django"/>
+<img src="https://skillicons.dev/icons?i=postman" title="REST APIs / Postman"/>
 
 </p>
-
-**Technologies:**
-
-`Node.js` `Express.js` `FastAPI` `Django` `REST APIs` `Uvicorn`
 
 ---
 
@@ -180,26 +186,21 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch" />
+<img src="https://skillicons.dev/icons?i=python" title="Python"/>
+<img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch"/>
+<img src="https://skillicons.dev/icons?i=sklearn" title="Scikit-learn"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" title="Deep Learning"/>
+<img src="https://skillicons.dev/icons?i=anaconda" title="Conda / Miniconda"/>
 
 </p>
 
-**Worked With:**
+<p align="center">
 
-`Machine Learning`  
-`Deep Learning`  
-`PyTorch`  
-`PyTorch Geometric (PyG)`  
-`Graph Neural Networks (GNN)`  
-`Explainable AI (XAI)`  
-`Scikit-learn`  
-`XGBoost`  
-`Regression`  
-`Classification`  
-`Decision Trees`  
-`Ensemble Learning`  
-`ROC / AUC`  
-`Confusion Matrix`
+<img src="https://img.shields.io/badge/GNN-8B5CF6?style=for-the-badge&logo=pytorch&logoColor=white" title="Graph Neural Networks"/>
+<img src="https://img.shields.io/badge/XAI-0984E3?style=for-the-badge" title="Explainable AI"/>
+<img src="https://img.shields.io/badge/XGBoost-00A86B?style=for-the-badge" title="XGBoost"/>
+
+</p>
 
 ---
 
@@ -207,24 +208,15 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python" title="Python"/>
+<img src="https://skillicons.dev/icons?i=pandas" title="Pandas"/>
+<img src="https://skillicons.dev/icons?i=numpy" title="NumPy"/>
+<img src="https://skillicons.dev/icons?i=mysql" title="SQL"/>
+<img src="https://skillicons.dev/icons?i=excel" title="Microsoft Excel"/>
+<img src="https://skillicons.dev/icons?i=hadoop" title="Hadoop"/>
+<img src="https://skillicons.dev/icons?i=spark" title="Big Data / Spark"/>
 
 </p>
-
-**Tools & Concepts:**
-
-`Pandas`  
-`NumPy`  
-`SQL`  
-`Excel`  
-`Pivot Tables`  
-`Data Analysis`  
-`Data Visualization`  
-`Big Data Analytics`  
-`Hadoop`  
-`HDFS`  
-`MapReduce`  
-`NoSQL`
 
 ---
 
@@ -232,15 +224,15 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase,redis" />
+<img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
+<img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
+<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
+<img src="https://skillicons.dev/icons?i=firebase" title="Firebase"/>
+<img src="https://skillicons.dev/icons?i=supabase" title="Supabase"/>
+<img src="https://skillicons.dev/icons?i=redis" title="Redis"/>
+<img src="https://skillicons.dev/icons?i=oracle" title="Oracle Database"/>
 
 </p>
-
-**Also worked with:**
-
-`MongoDB Atlas`  
-`Oracle Database`  
-`PL/SQL`
 
 ---
 
@@ -248,18 +240,14 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,firebase,supabase,vercel" />
+<img src="https://skillicons.dev/icons?i=aws" title="AWS"/>
+<img src="https://skillicons.dev/icons?i=vercel" title="Vercel"/>
+<img src="https://skillicons.dev/icons?i=render" title="Render"/>
+<img src="https://skillicons.dev/icons?i=firebase" title="Firebase"/>
+<img src="https://skillicons.dev/icons?i=supabase" title="Supabase"/>
+<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB Atlas"/>
 
 </p>
-
-**Platforms:**
-
-`AWS`  
-`Vercel`  
-`Render`  
-`Supabase`  
-`Firebase`  
-`MongoDB Atlas`
 
 ---
 
@@ -267,33 +255,30 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,npm" />
+<img src="https://skillicons.dev/icons?i=git" title="Git"/>
+<img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
+<img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code"/>
+<img src="https://skillicons.dev/icons?i=linux" title="Linux"/>
+<img src="https://skillicons.dev/icons?i=bash" title="Bash"/>
+<img src="https://skillicons.dev/icons?i=npm" title="npm"/>
+<img src="https://skillicons.dev/icons?i=anaconda" title="Conda / Miniconda"/>
+<img src="https://skillicons.dev/icons?i=jupyter" title="Jupyter Notebook"/>
+<img src="https://skillicons.dev/icons?i=kaggle" title="Kaggle"/>
+<img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
 
 </p>
 
-**Also worked with:**
-
-`Postman`  
-`Conda`  
-`Miniconda`  
-`Jupyter Notebook`  
-`Kaggle`  
-`Kaggle CLI`  
-`WSL`  
-`CUDA`
-
 ---
 
-# 🧩 APIs & Services
+## 🧩 APIs & Services
 
-```text
-Google Gemini API
-YouTube API
-Binance Futures API
-REST APIs
-Firebase Services
-```
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=google" title="Google Gemini API"/>
+<img src="https://skillicons.dev/icons?i=youtube" title="YouTube API"/>
+<img src="https://skillicons.dev/icons?i=firebase" title="Firebase Services"/>
+
+</p>
 ---
 
 # 📊 GitHub Stats
