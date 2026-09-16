@@ -203,9 +203,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="SQL"/>
 <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="50" title="Excel"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="50" title="Power BI"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="50" title="Tableau"/>
-
+<img src="https://img.icons8.com/color/96/power-bi-2021.png" width="50" title="Power BI"/>
+<img src="https://img.icons8.com/color/96/tableau-software.png" width="50" title="Tableau"/>
 </p>
 
 ---
