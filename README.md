@@ -258,14 +258,6 @@
 
 ---
 
-## 🧩 APIs & Services
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=google" title="Google Gemini API"/>
-<img src="https://skillicons.dev/icons?i=youtube" title="YouTube API"/>
-
-</p>
 
 # 📊 GitHub Stats
 
