@@ -246,6 +246,9 @@
 <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code"/>
 <img src="https://skillicons.dev/icons?i=linux" title="Linux"/>
 <img src="https://skillicons.dev/icons?i=bash" title="Bash"/>
+
+<br>
+
 <img src="https://skillicons.dev/icons?i=npm" title="npm"/>
 <img src="https://skillicons.dev/icons?i=anaconda" title="Conda / Miniconda"/>
 <img src="https://cdn.simpleicons.org/jupyter/F37626" title="Jupyter Notebook"/>
