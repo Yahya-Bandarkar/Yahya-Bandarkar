@@ -28,9 +28,11 @@
 <br>
 
 <img src="https://img.shields.io/badge/PYTHON-555555?style=for-the-badge&logo=python&logoColor=white&labelColor=555555"/>
-<img src="https://img.shields.io/badge/DATA%20ANALYTICS-555555?style=for-the-badge&logo=databricks&logoColor=white&labelColor=555555"/>
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-8B5CF6?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/GNN-555555?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=555555"/>
+<img src="https://img.shields.io/badge/DATA%20ANALYST-8B5CF6?style=for-the-badge&labelColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/DATA%20SCIENTIST-555555?style=for-the-badge&labelColor=555555"/>
+<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-F1C40F?style=for-the-badge&labelColor=F1C40F"/>
+<img src="https://img.shields.io/badge/ML-555555?style=for-the-badge&labelColor=555555"/>
+<img src="https://img.shields.io/badge/GNN-E84393?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
 <br><br>
 
