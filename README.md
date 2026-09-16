@@ -43,7 +43,7 @@
 
 # 👨‍💻 About Me
 
-<table width="100%" style="table-layout: fixed;">
+<table>
 <tr>
 
 <td width="50%" valign="top">
